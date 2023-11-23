@@ -7,8 +7,10 @@ cascade:
   showSummary: true
 ---
 
-{{< lead >}}
-冒険が始まります :black_heart:
-{{< /lead >}}
+> 旅行者、ようやく到着しましたね。ずっと待っていました。<br>
+> さぁ、**進み続けましょう**。これから体験することはまだまだたくさんあります。
+
+{{< figure src="Pixel_art_Wizard_Portrait (1).svg" >}}
+
 
 ---

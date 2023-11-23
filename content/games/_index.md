@@ -7,8 +7,11 @@ cascade:
   showSummary: true
 ---
 
-{{< lead >}}
-The adventure begins :black_heart:
-{{< /lead >}}
+
+> You finally arrived traveller, I have been waiting for ages.  <br>
+> Now must **Keep** moving, there is so much more to be experienced 
+
+{{< figure src="Pixel_art_Wizard_Portrait (1).svg" >}}
+
 
 ---
