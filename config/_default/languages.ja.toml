@@ -1,22 +1,22 @@
-languageCode = "ja"
-languageName = "日本語"
+languageCode = "ja-JP"
+languageName = "Japanese"
 languageDirection = "ltr"
-weight = 2
+weight = 1
 
-title = "Congo"
-copyright = "&copy; 2023 Congo contributors"
+title = "BloxEe"
+copyright = "&copy; 2023 BloxEeスタジオ"
 
 [params]
   dateFormat = "2006年1月2日"
 
-  mainSections = ["samples"]
-  description = "Tailwind CSSをベースに開発された強力で軽量なHugo向けテーマ"
+  mainSections = ["games"]
+  description = "高品質なゲームを作成し、複数のプラットフォームで魅力的で感動的なゲーム体験を提供することを専門とするビデオゲーム開発スタジオ"
 
 [author]
-  name = "Congo"
-  image = "img/author.jpg"
-  headline = "ただならぬテーマ!"
-  bio = "これは著者の経歴の例で、ここには犬の画像があるが、実際には人間が作成したものである。 :dog:"
+  name = "BloxEeチーム"
+  image = "img/lgo2.png"
+  headline = "specteculerrr"
+  bio = "高品質なゲームを作成し、複数のプラットフォームで魅力的で感動的なゲーム体験を提供することを専門とするビデオゲーム開発スタジオ :dog:"
   links = [
     { x-twitter = "https://twitter.com/" },
     { facebook = "https://facebook.com/" },

@@ -9,14 +9,14 @@ copyright = "&copy; 2023 BloxEe studios"
 [params]
   dateFormat = "2 January 2006"
 
-  mainSections = ["samples"]
+  mainSections = ["games"]
   description = "A video game developement studio that specializes in creating high-quality games designed to deliver  a captivating and emotional gaming experience accross multiple platforms"
 
 [author]
-  name = "Congo"
-  image = "img/author.jpg"
-  headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  name = "BloxEe Team"
+  image = "img/lgo2.png"
+  headline = "specteculerrr"
+  bio = "A video game developement studio that specializes in creating high-quality games designed to deliver  a captivating and emotional gaming experience accross multiple platforms :dog:"
   links = [
     { x-twitter = "https://twitter.com/" },
     { facebook = "https://facebook.com/" },

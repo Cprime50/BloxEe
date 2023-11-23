@@ -1,6 +1,6 @@
-# Congo
+# BloxEe web
 
-Congo is designed to be a powerful, lightweight theme for [Hugo](https://gohugo.io). It's built using Tailwind CSS with a clean and minimalist design that prioritises to your content.
+Made for a video game studio website
 
 🌏 [Demo site](https://jpanther.github.io/congo/)  
 📑 [Theme documentation](https://jpanther.github.io/congo/docs/)  
@@ -83,14 +83,5 @@ Detailed [update instructions](https://jpanther.github.io/congo/docs/installatio
 
 ---
 
-## Contributing
+## When using images in sub folder in a content, rename the image as this `thumb-jason-coudriet-eQux_nmDew0-unsplash`, otherwise it wont display too potato to find a solution for now but will figure it out and fix soon...
 
-Congo is expected to evolve over time. I intend to keep adding features and making changes as required.
-
-Feel free to get in touch with any issues or suggestions for new features you'd like to see.
-
-- 🐛 **Bug reports & issues:** Use [GitHub Issues](https://github.com/jpanther/congo/issues)
-- 💡 **Ideas for new features:** Open a discussion on [GitHub Discussions](https://github.com/jpanther/congo/discussions)
-- 🙋‍♀️ **General questions:** Head to [GitHub Discussions](https://github.com/jpanther/congo/discussions)
-
-If you're able to fix a bug or implement a new feature, I welcome PRs for this purpose. Learn more in the [contributing guidelines](https://github.com/jpanther/congo/blob/dev/CONTRIBUTING.md).

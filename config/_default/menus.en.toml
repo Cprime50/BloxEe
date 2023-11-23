@@ -12,28 +12,28 @@
 
 [[main]]
   name = "About"
-  pageRef = "docs"
+  pageRef = "about"
   weight = 10
 
 
 [[main]]
   name = "Games"
-  pageRef = "samples"
+  pageRef = "games"
   weight = 20
 
 [[main]]
   name = "Team"
-  pageRef = "users"
+  pageRef = "team"
   weight = 30
 
 [[main]]
   name = "Contact"
-  pageRef = "docs"
+  pageRef = "contact"
   weight = 40
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/Cprime50/BluxEe"
+  url = "https://github.com/Cprime50/BloxEe"
   weight = 50
   [main.params]
     icon = "github"

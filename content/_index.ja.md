@@ -1,19 +1,18 @@
 ---
-title: "Welcome Dear Visitor! :heart_hands:"
-description: "BloxEe is a video game developement studio that specializes in creating high-quality games designed to deliver  a captivating and emotional gaming experience accross multiple platforms"
+title: "ようこそ、親愛なる訪問者！ :heart_hands:"
+description: "BloxEeは、複数のプラットフォームで魅力的で感動的なゲーム体験を提供することを目的とした高品質なゲームを作成する専門のビデオゲーム開発スタジオです。"
 ---
 
-
-> Your quest has began, you have been chosen to find the meaning behind us.<br>
-> **Tip:** you're in the right path.<br>
-> Goodluck on your journey traveler, a wonderful adventure awaits you ..
+> あなたの冒険が始まりました。私たちの意味を見つけるために選ばれたのです。<br>
+> **ヒント:** あなたは正しい道を進んでいます。<br>
+> 旅行者よ、あなたの旅に幸運を！素晴らしい冒険があなたを待っています。
 
 {{< lead >}}
-BloxEe is a video game developement studio that specializes in creating high-quality games designed to deliver  a captivating and emotional gaming experience accross multiple platforms.
-Check out our [releases]({{< ref "samples" >}}).
+BloxEeは、複数のプラットフォームで魅力的で感動的なゲーム体験を提供することを目的とした高品質なゲームを作成する専門のビデオゲーム開発スタジオです。
+私たちの [リリース]({{< ref "games" >}}) をチェックしてください。
 {{< /lead >}}
 
+{{< figure src="moshing.svg" class="m-auto mt-6 max-w-prose" >}}
 
-{{< figure src="festivities.svg" class="m-auto mt-6 max-w-prose" >}}
+冒険の雰囲気を感じるために、[ゲーム]({{< ref "games" >}}) を探索してみてください。
 
-Explore our [games]({{< ref "samples" >}}) to get a feel of the adventure.

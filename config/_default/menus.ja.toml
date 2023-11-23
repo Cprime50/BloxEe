@@ -1,41 +1,46 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
+# -- メインメニュー --
+# メインメニューはページの上部にヘッダーとして表示されます。
+# 受け入れ可能なパラメータはname、pageRef、page、url、title、weightです。
 #
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
+# 最も簡単なメニューの構成は次のとおりです：
+#   name = このメニューリンクの表示名
+#   pageRef = リンク先のページまたはセクションの識別子
 #
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
+# メニューはデフォルトでアルファベット順に並び替えられます。これは
+# weight値を提供することでオーバーライドできます。メニューはその後
+# weightが最も低いものから最も高いものまで順に並べ替えられます。
 
 [[main]]
-  name = "ドキュメント"
-  pageRef = "docs"
+  name = "紹介"
+  pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "サンプル"
-  pageRef = "samples"
+  name = "ゲーム"
+  pageRef = "games"
   weight = 20
 
 [[main]]
-  name = "利用例"
-  pageRef = "users"
+  name = "チーム"
+  pageRef = "team"
   weight = 30
 
 [[main]]
-  name = "GitHub"
-  url = "https://github.com/jpanther/congo"
+  name = "お問い合わせ"
+  pageRef = "contact"
   weight = 40
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/Cprime50/BloxEe"
+  weight = 50
   [main.params]
     icon = "github"
     showName = false
     target = "_blank"
 
 [[main]]
-  identifier = "検索"
+  identifier = "search"
   weight = 99
   [main.params]
     action = "search"
@@ -45,12 +50,3 @@
   weight = 100
   [main.params]
     action = "locale"
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10

@@ -10,10 +10,10 @@ description: "BloxEe is a video game developement studio that specializes in cre
 
 {{< lead >}}
 BloxEe is a video game developement studio that specializes in creating high-quality games designed to deliver  a captivating and emotional gaming experience accross multiple platforms.
-Check out our [releases]({{< ref "samples" >}}).
+Check out our [releases]({{< ref "games" >}}).
 {{< /lead >}}
 
 
 {{< figure src="moshing.svg" class="m-auto mt-6 max-w-prose" >}}
 
-Explore our [games]({{< ref "samples" >}}) to get a feel of the adventure.
+Explore our [games]({{< ref "games" >}}) to get a feel of the adventure.
